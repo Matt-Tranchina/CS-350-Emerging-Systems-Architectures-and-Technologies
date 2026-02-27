@@ -5,7 +5,7 @@
 #
 # This code works with the test circuit that was built for module 7.
 #
-# Functionality:
+# Functionality: 
 #
 # The thermostat has three states: off, heat, cool
 #
